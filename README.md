@@ -30,4 +30,5 @@ Essas regras foram validadas pelos testes unitários no arquivo `test_app.py`.
 ---
 
 ## Exemplo de Saída:
-<img width="763" height="210" alt="image" src="https://github.com/user-attachments/assets/aee0c834-5a7f-4441-8833-cdd3b33c625c" />
+<img width="779" height="198" alt="image" src="https://github.com/user-attachments/assets/23e6c872-9b31-4389-8142-71d4350da0f6" />
+
