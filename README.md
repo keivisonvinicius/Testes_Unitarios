@@ -29,14 +29,5 @@ Essas regras foram validadas pelos testes unitários no arquivo `test_app.py`.
 
 ---
 
-## 📁 Estrutura do Projeto
-
-Teste_Unitario/
-│
-├── app.py # Código principal com a lógica de negócio
-├── test_app.py # Testes unitários automatizados
-├── requirements.txt # Dependências do projeto
-└── README.md # Documentação do projeto
-
-Exemplo de Saída:
+## Exemplo de Saída:
 <img width="763" height="210" alt="image" src="https://github.com/user-attachments/assets/aee0c834-5a7f-4441-8833-cdd3b33c625c" />
